@@ -19,7 +19,7 @@ class _GamePageState extends State<GamePage> with TickerProviderStateMixin {
   late Animation<double> _snakeAnimation;
   late AnimationController _snakeController;
   List _snake = [404, 405, 406, 407];
-  final int _noOfSquares = 500;
+  final int _noOfSquares = 600;
   final Duration _duration = Duration(milliseconds: 250);
   final int _squareSize = 20;
   late String _currentSnakeDirection;
