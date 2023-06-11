@@ -1,14 +1,14 @@
-# 🐍 Snake Game in Flutter
+# 🐍 Slither
 
 This is a classic Snake Game built with Flutter. The objective of the game is to control a snake that grows in length by eating food without hitting the walls or its own body.
 
 ## 🫶 Installation
 
 1. Clone this repository: 
-<pre><code>git clone https://github.com/aryamanshrivastava/Flutter-SnakeGame.git</code></pre>
+<pre><code>git clone https://github.com/aryamanshrivastava/Slither.git</code></pre>
 
 2. Navigate to the project directory: 
-<pre><code>cd Flutter-SnakeGame</code></pre>
+<pre><code>cd Slither</code></pre>
 
 3. Install the dependencies: 
 <pre><code>flutter pub get</code></pre>
