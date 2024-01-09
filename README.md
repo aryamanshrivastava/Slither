@@ -26,6 +26,7 @@ HomePage                   |  GamePage                 |  OnPlayingGamePage     
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 ![](/screenshots/screenshot1.png)|![](/screenshots/screenshot2.png)|![](/screenshots/screenshot3.png)|![](/screenshots/screenshot4.png)|
 
+<!---
 ## 🎉 Credits
 
-This game was developed by [Aryaman Shrivastava](https://github.com/aryamanshrivastava) for educational/learning purposes only. The assets used in this game are from [OpenGameArt](https://opengameart.org/) and [Kenney.nl](https://kenney.nl/) .
+This game was developed by [Aryaman Shrivastava](https://github.com/aryamanshrivastava) for educational/learning purposes only. The assets used in this game are from [OpenGameArt](https://opengameart.org/) and [Kenney.nl](https://kenney.nl/) .-->
