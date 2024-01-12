@@ -8,7 +8,7 @@ This is a classic Snake Game built with Flutter. The objective of the game is to
 <pre><code>git clone https://github.com/aryamanshrivastava/Slither.git</code></pre>
 
 2. Navigate to the project directory: 
-<pre><code>cd Slither</code></pre>
+<pre><code>cd snake_game</code></pre>
 
 3. Install the dependencies: 
 <pre><code>flutter pub get</code></pre>
